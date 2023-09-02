@@ -5,3 +5,5 @@ The web app will also allow users to feed back into the model, and have the mode
 Later features:
  - user specific models
  - user sepcific blocked words/genres
+
+![Plan](Plan.drawio.png)
